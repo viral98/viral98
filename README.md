@@ -1,1 +1,1 @@
-[![Viral's github stats](https://github-readme-stats.vercel.app/api?username=viral98)](https://github.com/anuraghazra/github-readme-stats)
+[![Viral's github stats](https://github-readme-stats.vercel.app/api?username=viral98&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
